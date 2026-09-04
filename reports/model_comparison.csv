@@ -1,0 +1,5 @@
+Model,AccuracyPercent,ROCAUCPercent
+Logistic Regression,65.0,70.36215816703621
+Decision Tree,61.5,67.04677436384753
+Random Forest,61.5,65.60553267870341
+Tuned Random Forest,63.5,65.71639742371448

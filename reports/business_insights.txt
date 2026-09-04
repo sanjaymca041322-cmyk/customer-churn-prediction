@@ -1,0 +1,21 @@
+CUSTOMER CHURN BUSINESS INSIGHTS
+==================================================
+
+Total Customers: 1000
+Churned Customers: 384
+Non-Churned Customers: 616
+Overall Churn Rate: 38.40%
+Best Model: Logistic Regression
+Best Model Accuracy: 65.00%
+Logistic Regression ROC-AUC: 70.36%
+Random Forest ROC-AUC: 65.61%
+Tuned Random Forest ROC-AUC: 65.72%
+High-Risk Customers: 148
+
+Top Features:
+       Feature  Importance
+MonthlyCharges    0.200644
+    TotalSpend    0.194800
+        Tenure    0.176507
+           Age    0.168263
+  SupportCalls    0.152885
